@@ -1,0 +1,39 @@
+.search-weather-container {
+	text-align: center
+}
+
+.search-app-header {
+	height: 35px;
+	font-size: 20px;
+	padding: 7px;
+}
+
+.card-wrapper {
+	margin: 20px;
+	min-height: 200px;
+	width: 20%;
+}
+
+.city-search-input {
+	margin-right: 15px;
+	height: 20px;
+}
+
+.cities-list {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100%;
+	flex-wrap: wrap;
+}
+
+.error-text {
+	color: red;
+	font-size: 12px;
+}
+
+.warning-text {
+	font-size: 12px;
+}
+
+
